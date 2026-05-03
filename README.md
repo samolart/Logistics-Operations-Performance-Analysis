@@ -16,11 +16,11 @@ The data suggests that the biggest opportunities are not random. Certain routes,
 - [Data Preparation](#data-Preparation)
 - [Data Quality Checks](#data-quality-checks)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
-- KPI Summary
-Key Findings
-Recommendations
-SQL Code Used
-Conclusion
+- [KPI Summary](#kpi-summary)
+- [Key Findings](#key-findings)
+- [Recommendations](#recommendations)
+- [SQL Code Used](#SQL-Code-Used)
+- [Conclusion](#conclusion)
 
 ## Objective
 
