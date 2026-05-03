@@ -56,19 +56,13 @@ Supporting tables available for extension include:
 
 ## Tools
 
-Python
-
-Pandas
-
-NumPy
-
-Matplotlib
-
-Seaborn
-
-SQL
-
-Excel
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- SQL
+- Excel
 
 ## Data Preparation
 
