@@ -32,7 +32,7 @@ To answer this, the project examines shipment performance, trip efficiency, rout
 
 ## Data Source
 
-This is the [dataset](https://www.kaggle.com/datasets/yogape/logistics-operations-database?utm_source=chatgpt.com&select=customers.csv) which contains a realistic logistics operations schema.
+This is the [dataset](https://www.kaggle.com/datasets/yogape/logistics-operations-database?utm_source=chatgpt.com&select=customers.csv). It contains a realistic logistics operations schema.
 
 Core tables used in the analysis include:
 
