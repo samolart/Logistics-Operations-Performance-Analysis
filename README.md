@@ -6,7 +6,7 @@
 
 This project analyzes a logistics operations database to evaluate service reliability, detention, route efficiency, driver performance, and facility bottlenecks. The analysis shows that the network moves a large volume of freight, but operational performance is inconsistent. On-time delivery performance is below what a mature logistics operation should target, and detention is high enough to indicate meaningful inefficiencies at pickup and delivery points.
 
-The data suggests that the biggest opportunities are not random. Certain routes, facilities, and operating patterns consistently underperform, which means service quality can be improved through targeted operational changes rather than broad, expensive interventions. The final output is structured as a consulting-style case study that turns raw logistics data into a clear business story, actionable findings, and practical recommendations.
+The data suggests that the biggest opportunities are not random. Certain routes, facilities, and operating patterns consistently underperform, which means service quality can be improved through targeted operational changes rather than broad, expensive interventions. 
 
 ## Table of Contents
 
