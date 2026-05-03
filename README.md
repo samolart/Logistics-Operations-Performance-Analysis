@@ -1,12 +1,25 @@
 # Logistics Operations Performance Analysis
 
-## Dashboard
 
-### Executive Summary
+
+
+
+### Summary
 
 This project analyzes a logistics operations database to evaluate service reliability, detention, route efficiency, driver performance, and facility bottlenecks. The analysis shows that the network moves a large volume of freight, but operational performance is inconsistent. On-time delivery performance is below what a mature logistics operation should target, and detention is high enough to indicate meaningful inefficiencies at pickup and delivery points.
 
 The data suggests that the biggest opportunities are not random. Certain routes, facilities, and operating patterns consistently underperform, which means service quality can be improved through targeted operational changes rather than broad, expensive interventions. 
+
+
+<img width="3224" height="664" alt="image" src="https://github.com/user-attachments/assets/c21f87ac-2347-4d02-894e-33f096a8e323" />
+<img width="2770" height="1858" alt="image" src="https://github.com/user-attachments/assets/76f45781-8e0e-4c7b-b17f-159ac3c96276" />
+<img width="2385" height="1345" alt="image" src="https://github.com/user-attachments/assets/a38ac7bf-4493-4f94-a796-4058a27d4ccf" />
+<img width="2385" height="1345" alt="image" src="https://github.com/user-attachments/assets/21587b9c-d6b9-4ef3-a789-fdea9c4fd82c" />
+<img width="2382" height="1345" alt="image" src="https://github.com/user-attachments/assets/d137c16b-3a51-45db-8a85-971a5a881cc3" />
+<img width="2385" height="1345" alt="image" src="https://github.com/user-attachments/assets/10af98b2-63b9-45c3-b6a6-a418ddabf425" />
+
+
+
 
 ## Table of Contents
 
@@ -273,22 +286,21 @@ facility_perf.head(10)
 | KPI | Value |
 |---|---:|
 | Loads | 85,410 |
-| Trips | 85,410 |
-| Total Revenue | $262,525,800.29 |
+| Total Revenue | $257,264,551 |
 | Average Revenue per Load | $3,073.71 |
 | Median Revenue per Load | $2,827.98 |
-| On-Time Rate | 55.7% |
+| On-Time Rate | 44.6% |
 | Average Detention Minutes | 91.5 |
 | Average Distance Miles | 1,430.3 |
 | Average Duration Hours | 24.0 |
 | Average MPG | 6.5 |
-| Average Idle Hours | 4.0 |
+| Average Idle Hours | 7.01 |
 
 ## Key Findings
 
 ### Service performance is the biggest issue
 
-The on-time rate is **55.7%**, which is a clear signal that the network is underperforming on customer service.
+The on-time rate is **44.6%**, which is a clear signal that the network is underperforming on customer service.
 
 ### Detention is significant
 
