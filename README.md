@@ -32,7 +32,7 @@ To answer this, the project examines shipment performance, trip efficiency, rout
 
 ## Data Source
 
-The dataset used in this project is the `logistics_data_combined.xlsx` workbook, which contains a realistic logistics operations schema.
+This is the [dataset](https://www.kaggle.com/datasets/yogape/logistics-operations-database?utm_source=chatgpt.com&select=customers.csv) which contains a realistic logistics operations schema.
 
 Core tables used in the analysis include:
 
@@ -280,9 +280,9 @@ facility_perf.head(10)
 |---|---:|
 | Loads | 85,410 |
 | Trips | 85,410 |
-| Total Revenue | 262,525,800.29 |
-| Average Revenue per Load | 3,073.71 |
-| Median Revenue per Load | 2,827.98 |
+| Total Revenue | $262,525,800.29 |
+| Average Revenue per Load | $3,073.71 |
+| Median Revenue per Load | $2,827.98 |
 | On-Time Rate | 55.7% |
 | Average Detention Minutes | 91.5 |
 | Average Distance Miles | 1,430.3 |
