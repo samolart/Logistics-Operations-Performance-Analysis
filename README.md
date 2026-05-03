@@ -6,9 +6,13 @@
 
 ### Summary
 
-This project analyzes a logistics operations database to evaluate service reliability, detention, route efficiency, driver performance, and facility bottlenecks. The analysis shows that the network moves a large volume of freight, but operational performance is inconsistent. On-time delivery performance is below what a mature logistics operation should target, and detention is high enough to indicate meaningful inefficiencies at pickup and delivery points.
+This project analyzes logistics and operations performance to evaluate delivery efficiency, order fulfillment, and overall service reliability.
 
-The data suggests that the biggest opportunities are not random. Certain routes, facilities, and operating patterns consistently underperform, which means service quality can be improved through targeted operational changes rather than broad, expensive interventions. 
+The analysis focuses on identifying key operational bottlenecks, delays, and inefficiencies that impact performance. By examining delivery timelines, order volumes, and operational consistency, the project highlights areas where performance is uneven and where improvements can drive measurable gains.
+
+The findings show that delays and process inefficiencies are concentrated in specific stages of the logistics workflow, reducing operational efficiency and service quality. Variability across operations further indicates opportunities for standardization and better performance management.
+
+The project concludes with data-driven recommendations aimed at improving delivery speed, optimizing operational workflows, and enhancing overall reliability, enabling more efficient and scalable logistics operations. 
 
 
 <img width="3224" height="664" alt="image" src="https://github.com/user-attachments/assets/c21f87ac-2347-4d02-894e-33f096a8e323" />
